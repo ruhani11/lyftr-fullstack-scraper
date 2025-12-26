@@ -145,8 +145,8 @@ lyftr-fullstack-scraper/
 │   ├── __init__.py
 │   ├── main.py
 │   ├── scraper.py
-│   └── templates/
-│       └── index.html
+├── templates/
+│   ├── index.html
 │
 ├── run.sh
 ├── requirements.txt
